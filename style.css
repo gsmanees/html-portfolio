@@ -47,6 +47,14 @@ h1{
 }
 
 .image{
-    width: 50%;
-    height: 50%;
+    width: 25%;
+    height: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+#center{
+    text-align: center;
+    
+} 
