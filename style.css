@@ -1,0 +1,31 @@
+*{
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font
+}
+
+h2{
+    background-color:purple;
+    color: white;
+
+
+
+}
+
+h3{
+    background-color: bisque;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Summary{
+    text-align: justify;
+}
+
+.profile_photo{
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+}
